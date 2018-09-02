@@ -7,8 +7,9 @@ Install platformio core and either figure out `pio run`, or just do `make flash`
 There is an issue where it freezes after you plug in a bmp280, not sure what's up with that. Just reset it.
 
 ## Images
-![detector with bme][/img/bme.jpg?raw=true]
-![detector with bmp][/img/bmp.jpg?raw=true]
+
+<img src="https://raw.githubusercontent.com/mtfurlan/bme-bmp-detector/master/img/bme.jpg" width="400">
+<img src="https://raw.githubusercontent.com/mtfurlan/bme-bmp-detector/master/img/bmp.jpg" width="400">
 
 ## Connections
 * D1 mini SCL: D1
